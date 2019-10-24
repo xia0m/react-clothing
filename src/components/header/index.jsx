@@ -16,8 +16,6 @@ import {
   OptionDiv
 } from "./header.style";
 
-import "./style.scss";
-
 const Header = ({ currentUser, hidden }) => (
   <HeaderContainer>
     <LogoContainer to="/">
